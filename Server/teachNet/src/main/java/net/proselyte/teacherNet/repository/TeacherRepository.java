@@ -1,7 +1,7 @@
 package net.proselyte.teacherNet.repository;
 
-import net.proselyte.customerdemo.model.Customer;
+import net.proselyte.teacherNet.model.Teacher;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface CustomerRepository extends JpaRepository<Teacher, Long> {
+public interface TeacherRepository extends JpaRepository<Teacher, Long> {
 }

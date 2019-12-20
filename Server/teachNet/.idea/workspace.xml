@@ -2,76 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3b2ac6a-e5b3-4627-bb55-ae4bae4a96c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/Negator.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/androidTest/java/com/example/negator/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/java/com/example/negator/EndLectActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/java/com/example/negator/LectionActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/java/com/example/negator/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/java/com/example/negator/MenuActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/java/com/example/negator/RegistrationActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/java/com/example/negator/VisitorsActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/alotopportu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/button_blue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/geniuspepople.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/happysearch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/happysmart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/icon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/neg192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/negb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/negf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/negic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/onownwawe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/drawable/searchingpeople.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/font/convergence.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/font/lilita_one.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/font/roboto.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/font/roboto_condensed_light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/font/salsa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/layout/activity_end_lect.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/layout/activity_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/layout/activity_registration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/layout/activity_visitors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/layout/lectionlayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/layout/rowlayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/values/font_certs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/app/src/test/java/com/example/negator/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Client/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/proselyte/teacherNet/repository/TeacherRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/proselyte/teacherNet/repository/TeacherRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

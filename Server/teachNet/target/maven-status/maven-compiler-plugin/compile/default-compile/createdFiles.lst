@@ -1,0 +1,5 @@
+net\proselyte\teacherNet\TeacherApplication.class
+net\proselyte\teacherNet\repository\TeacherRepository.class
+net\proselyte\teacherNet\service\TeacherService.class
+net\proselyte\teacherNet\model\BaseEntity.class
+net\proselyte\teacherNet\model\Teacher.class
