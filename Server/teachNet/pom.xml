@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.proselyte</groupId>
-    <artifactId>teachNet</artifactId>
+    <artifactId>TeacherNet</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>TeacherNet</name>
-    <description>$ Project for MUAM course</description>
+    <description>Project for JAVA MUAM</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -30,32 +30,32 @@
             <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
 
-        <dependecy>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>sprintg-boot-starter-data-rest</artifactId>
-        </dependecy>
+            <artifactId>spring-boot-starter-data-rest</artifactId>
+        </dependency>
 
-        <dependecy>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-toncat</artifactId>
-        </dependecy>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+        </dependency>
+
+        <!-- MySQL -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+        <!-- Lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version>
+            <scope>provided</scope>
+        </dependency>
 
     </dependencies>
-
-    <!-- MySQL -->
-    <dependency>
-        <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java</artifactId>
-        <scope>runtime</scope>
-    </dependency>
-
-    <!-- Lombok -->
-    <dependency>
-        <groupId>org.projectlombok</groupId>
-        <artifactId>lombok</artifactId>
-        <version>${lombok.version}</version>
-        <scope>provided</scope>
-    </dependency>
 
     <build>
         <plugins>
@@ -67,4 +67,3 @@
     </build>
 
 </project>
-
